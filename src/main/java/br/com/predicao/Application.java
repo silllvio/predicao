@@ -18,3 +18,5 @@ public class Application extends SpringBootServletInitializer {
 	}
 
 }
+
+//Funcionando 100% no AWS
